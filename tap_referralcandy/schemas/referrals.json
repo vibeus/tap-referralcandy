@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "properties": {
+    "shopify_order_number": {
+      "type": "number"
+    },
+    "referral_email": {
+      "type": "string"
+    },
+    "referring_email": {
+      "type": "string"
+    },
+    "referral_order_time": {
+      "type": "string"
+    },
+    "review_period_over": {
+      "type": "boolean"
+    },
+    "referral_timestamp": {
+      "type": "number"
+    }
+  }
+}
